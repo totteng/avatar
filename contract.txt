@@ -1,0 +1,65 @@
+### Contract for Company C: Earthworks for Z-Ring Road Project
+
+**Contract No.: GRCB-2024-EW02**
+
+**This Contract is made between:**
+
+**Company B**  
+(Address)  
+("Main Contractor")
+
+**AND**
+
+**Company C**  
+(Address)  
+("Subcontractor")
+
+**1. Project Description:**  
+The Subcontractor shall perform all earthworks required for the Z-Ring Road project in Qatar, under the direction and management of the Main Contractor, as per the specifications and timeline outlined in the main construction contract managed by the Main Contractor.
+
+**2. Scope of Services:**  
+The Subcontractor will execute the following earthworks activities:
+a. Site clearance including removal of any existing structures, vegetation, and debris.
+b. Excavation and grading to achieve the required profiles and elevations as per the engineering plans provided by Company A.
+c. Compaction of soil to meet required density specifications for road base preparation.
+d. Implementation of erosion and sediment controls.
+
+**3. Contract Period:**  
+Start Date: [Insert Start Date]  
+Completion Date: [Insert Earthworks Completion Date]
+
+**4. Responsibilities:**
+
+**Company B (Main Contractor):**  
+a. Provide comprehensive plans and specifications for all earthwork activities.  
+b. Supervise and coordinate the activities of the Subcontractor to ensure compliance with the project schedule and design requirements.  
+c. Ensure that all necessary permits and approvals for the earthwork activities are obtained.  
+d. Manage and facilitate the logistical support necessary for the Subcontractor to perform their tasks effectively.
+
+**Company C (Subcontractor):**  
+a. Conduct all earthwork activities in accordance with the provided specifications and within the stipulated timelines.  
+b. Manage all machinery, labor, and materials required for the execution of the earthworks.  
+c. Maintain compliance with all safety and environmental regulations during the execution of earthworks.  
+d. Report progress and any issues regularly to the Main Contractor.
+
+**5. Payment Schedule:**  
+Payments will be milestone-based, as detailed below:  
+- 10% upon contract signing.  
+- 30% after site clearance and initial grading.  
+- 30% after main excavation and compaction tasks.  
+- 30% upon completion of all earthworks and satisfactory quality approval.
+
+**6. Safety and Compliance:**  
+The Subcontractor is responsible for ensuring all earthworks are performed safely, adhering to all applicable safety and environmental regulations.
+
+**7. Termination:**  
+This contract may be terminated by either party upon 60 days’ written notice for any breaches that are not remedied within 30 days of such notice.
+
+**Signatures:**
+
+_Company B (Main Contractor)_  
+[Signature & Date]
+
+_Company C (Subcontractor)_  
+[Signature & Date]
+

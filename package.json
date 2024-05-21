@@ -1,0 +1,16 @@
+{
+  "name": "streamingavatar",
+  "version": "1.0.0",
+  "description": "## Pre-Requisites",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "openai": "^4.28.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  }
+}

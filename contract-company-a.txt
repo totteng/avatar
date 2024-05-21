@@ -1,0 +1,53 @@
+### Contract for Company A: Planning and Design Management for Z-Ring Road Project
+
+**Contract No.: GRCA-2024-PD01**
+
+**This Contract is made between:**
+
+**Generic Roadworks Company**  
+(Address)  
+("Client")
+
+**AND**
+
+**Company A**  
+(Address)  
+("Contractor")
+
+**1. Project Description:**  
+The Contractor shall manage all planning and design aspects of the Z-Ring Road project in Qatar as described in the Request for Proposal dated [Insert Date] by Generic Roadworks Company.
+
+**2. Scope of Services:**  
+a. Conduct comprehensive planning and surveying.  
+b. Develop architectural and engineering designs.  
+c. Ensure compliance with Qatar building codes, Ashghal standards, and other regulatory requirements.
+
+**3. Contract Period:**  
+Start Date: [Insert Start Date]  
+Completion Date: [Insert Design Completion Date]
+
+**4. Contractor's Responsibilities:**  
+The Contractor is fully responsible for ensuring that the planning and design align with the requirements set forth and that the outcomes directly influence the success of the subsequent construction phase managed by Company B.
+
+**5. Payment Schedule:**  
+Payments will be milestone-based, as detailed below:  
+- 10% upon contract signing.  
+- 20% upon completion of surveying.  
+- 30% upon submission of final designs.  
+- 40% upon approval of all designs and planning documents by the Client.
+
+**6. Performance Clause:**  
+Company A shall be held responsible for any design flaws that adversely affect the construction phase or final project integrity, managed by Company B.
+
+**7. Termination:**  
+This contract may be terminated by either party upon 90 days’ written notice if there are breaches that are not remedied within 30 days of notification.
+
+**Signatures:**
+
+_Generic Roadworks Company_  
+[Signature & Date]
+
+_Company A_  
+[Signature & Date]
+
+
